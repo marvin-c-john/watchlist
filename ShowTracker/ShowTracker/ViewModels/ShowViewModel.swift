@@ -18,7 +18,7 @@ class ShowViewModel: ObservableObject {
     
     @Published var networkService = NetworkService()
     let seasons = ["Staffel 1", ""]
-    private let apiKey = "e2aa9c39501552e4b964e0d89aaa3ef4"
+
     init() {}
     
     
